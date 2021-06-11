@@ -15,6 +15,11 @@ Some sensors and actuators we plan to include are:
 
 We used an ESP32 to actuate the sensors. **Due to limitations in what hardware components we had, we could only work with a temparature and humidity sensor.**
 
+
+https://user-images.githubusercontent.com/85609211/121626910-e8900080-caa8-11eb-9d23-67fd06bc4df4.mp4
+
+
+
 ![ESP32](https://user-images.githubusercontent.com/85609211/121624043-5e916900-caa3-11eb-9d84-510e08fbd472.png)
 
 
