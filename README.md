@@ -1,4 +1,4 @@
-# SCDFXIBM TEAM: MySuit
+# SCDFXIBM: MySuit
 
 Using IoT sensors integrated inside a resuable Personal Protective Equipment (PPE) suit, we aim to give first responders the comfort and the care they deserve when responding to a pandemic.
 
