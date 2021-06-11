@@ -16,7 +16,7 @@ uint32_t delayMS;
 #include <PubSubClient.h> 
 
 
-//-------- your wifi -----------
+//-------- wifi -----------
 const char* ssid = " ";
 const char* password = " ";
 
@@ -24,7 +24,9 @@ const char* password = " ";
 #define DEVICE_TYPE "ESP32-WROOM-32"
 #define DEVICE_ID "887E3CB267AC"
 #define TOKEN "!8@F_5_ceFGRJQV-jc"
-//-------- Bluemix information to build up MQTT message -------
+
+
+//-------- information extracted from internet of things service by IBM cloud to build up MQTT message -------
 
 char server[] = ORG ".messaging.internetofthings.ibmcloud.com";
 char pubTopic[] = "iot-2/evt/status/fmt/json";
