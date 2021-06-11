@@ -2,9 +2,18 @@
 
 Using IoT sensors integrated inside a resuable Personal Protective Equipment (PPE) suit, we aim to give first responders the comfort and the care they deserve when responding to a pandemic.
 
+All the components will be wired in a way to ensure they cause no obtrusion to the wearer.
+
+Some sensors and actuators we plan to include are: 
+- Temperature sensor to control internal ventilation levels based on surrounding temperatures to make the suit more comfortable for wear
+- Servo motors in the head to control the motion of the hydration straw
+- Microphone and speaker in the head to communicate information efficiently
+- Switches to control the different components directly
+- Pressue detectors to check for any tears in the suit
+
 ## The Prototype
 
-We used an ESP32 to actuate the sensors. Due to limitations in what materials we had, we could only work with a temparature and humidity sensor.
+We used an ESP32 to actuate the sensors. **Due to limitations in what materials we had, we could only work with a temparature and humidity sensor.**
 
 ![ESP32](https://user-images.githubusercontent.com/85609211/121624043-5e916900-caa3-11eb-9d84-510e08fbd472.png)
 
